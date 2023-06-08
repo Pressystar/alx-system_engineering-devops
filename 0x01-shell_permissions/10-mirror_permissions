@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ..referenceolley hello
+chmod --reference-olley hello
